@@ -23,3 +23,44 @@
 #navigation-bar{
 	margin-bottom: 0px;
 }
+
+.post {
+	width: 80%;
+	margin-left: 10%;
+}
+
+.post-title {
+	text-align: center;
+	text-transform: capitalize;
+	text-decoration: underline;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.post-image { 
+	height: 250px;
+}
+
+.post-image img {
+	margin: 20px;
+	display: block;
+    vertical-align: middle;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-content {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-indent: 50px;
+	line-height: 1.5;
+	font-size: 18px;
+}
+
+.post-footer {
+	font-size: 10px;
+}
+
