@@ -7,17 +7,22 @@
 }
 
 #main-container{
+	height: 100%;
+}
+
+#content-container {
 	width: 70%;
-	height: 1000px;
+	min-height: 1000px;
+	height: 100%;
 	background-color: white;
-	float: left;
+	float:left;
 }
 
 #sidebar-container{
 	width: 30%;
-	height: 1000px;
+	height: 100%;
 	background-color: gray;
-	float: right;
+	float:right;
 }
 
 #navigation-bar{
